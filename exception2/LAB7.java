@@ -8,6 +8,7 @@ public class LAB7 {
                 doThis();
             } catch (Exception e) {
                 System.out.println("Main method receive exception " + e.getMessage());
+                System.out.println("kkk");
             }
         }
 
